@@ -24,7 +24,7 @@
 
 - [知乎](www.zhihu.com)：紧跟时事热点
 - [QM官网](qmplus.qmul.ac.uk)
-
+- [QM图书馆](https://www.qmul.ac.uk/library/):电子书格式的教材和参考书目
 
 ## 学习笔记仓库
 
